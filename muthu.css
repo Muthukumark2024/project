@@ -1,0 +1,174 @@
+.hone{
+    font-size: 15px;
+    color: orangered;
+    position: absolute;
+    top: 10px;
+    left: 50px;
+
+}
+.htwo{
+    font-size: 30px;
+    position: absolute;
+    top: 8px;
+    left: 60px;
+    color: orangered;
+    
+}
+.hthree{
+    font-size: 15px;
+    position: absolute;
+    top: 40px;
+    left: 120px;
+    color: orangered;
+}
+
+ul{
+    position: absolute;
+    left: 700px;
+    top: 0px;
+    color: orange;
+
+}
+li{
+    list-style-type: none;
+    padding: 20px;
+    display: inline;
+    left: 200px;
+    
+}
+.one{
+    color: orange;
+    margin-left: 550px;
+}
+.btn1{
+    border-radius: 20px;
+    background-color: orange;
+    padding: 5px;
+    color: white;
+    position: absolute;
+    left: 1050px;
+    top: 15px;
+
+
+}
+.para1{
+    color: orange;
+    position: absolute;
+    top: 200px;
+    left: 500px;
+
+}
+.para2{
+    color: white;
+    font-size: 70px;
+    position: absolute;
+    top: 200px;
+    left: 400px;
+}
+.para3{
+    color: white;
+    position: absolute;
+    font-size: 15px;
+    top: 350px;
+    left: 300px;
+}
+.para4{
+    color: white;
+    position: absolute;
+    font-size: 15px;
+    top: 380px;
+    left: 450px;
+}
+.btn2{
+    border-radius: 20px;
+    color: white;
+    position: absolute;
+    top: 450px;
+    left: 470px;
+    background-color: orange;
+    padding: 10px;
+}
+.btn3{
+    border-radius: 20px;
+    background-color: transparent;
+    color: brown;
+    position: absolute;
+    top: 450px;
+    left: 580px;
+    padding: 10px;
+}
+.para5{
+    font-size: 30px;
+    position: absolute;
+    left: 200px;
+    top: 630px;
+}
+.para6{
+    position: absolute;
+    font-size: 15px;
+    top:720px;
+    left: 220px;
+}
+.para7{
+    position: absolute;
+    font-size: 15px;
+    top: 780px;
+    left: 150px;
+}
+.para8{
+    position: absolute;
+    font-size: 15px;
+    top: 800px;
+    left: 170px;
+}
+.para9{
+    position: absolute;
+    font-size: 15px;
+    top: 850px;
+    left: 150px;
+}
+.para10{
+    position: absolute;
+    font-size: 15px;
+    top: 870px;
+    left: 170px;
+}
+.para11{
+    position: absolute;
+    font-size: 15px;
+    top: 890px;
+    left: 140px;
+}
+.para12{
+    position: absolute;
+    font-size: 15px;
+    top: 910px;
+    left: 170px;
+}
+.para13{
+    position: absolute;
+    top: 950px;
+    left: 120px;
+}
+.para14{
+    position: absolute;
+    top: 1000px;
+    left: 120px;
+    font-size: 20px;
+}
+.para15{
+    position: absolute;
+    top: 1030px;
+    left: 115px;
+    font-size: 20px;
+}
+.p1{
+    position: absolute;
+    left: 500px;
+    top: 600px;
+}
+.p2{
+    position: absolute;
+    left: 720px;
+    top: 600px;
+}
